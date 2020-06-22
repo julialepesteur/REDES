@@ -125,11 +125,6 @@ admcontrollers.motorista_registar = async (req,res) => {
 
 
 
-
-
-
-
-
 //CONTINAUR ISTO --- SO ISTO FEITO PARA A PAGINA ADD CLIENTE EM ADMIN
 
 
